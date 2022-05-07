@@ -15,7 +15,7 @@ __pycache__/
 *.pyd
 *.pyi
 *.bmp
-
+*.feat
 
 # C extensions
 

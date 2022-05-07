@@ -9,7 +9,6 @@ import os
 import joblib
 from sklearn.svm import LinearSVC
 import shutil
-from sklearn.decomposition import PCA
 import sys
 
 # 第一个是你的类别   第二个是类别对应的名称   输出结果的时候方便查看

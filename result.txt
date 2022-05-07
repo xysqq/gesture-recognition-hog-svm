@@ -1,0 +1,15 @@
+shift_10.jpg shift
+shift_7.jpg speed
+shift_9.jpg speed
+speed_10.jpg speed
+speed_7.jpg speed
+speed_9.jpg turn_left
+stop_10.jpg stop
+stop_7.jpg stop
+stop_9.jpg stop
+turn_left_10.jpg turn_left
+turn_left_7.jpg turn_left
+turn_left_9.jpg turn_left
+turn_right_10.jpg turn_right
+turn_right_7.jpg turn_right
+turn_right_9.jpg turn_right
